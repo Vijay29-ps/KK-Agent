@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+runs/
+uploads/
+tmp/
+output/
+evidence/
+reports/
+logs/
+.env
