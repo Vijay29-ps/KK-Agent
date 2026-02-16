@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+pandas
+ultralytics
+roboflow
+inference-sdk
+requests
+python-multipart
